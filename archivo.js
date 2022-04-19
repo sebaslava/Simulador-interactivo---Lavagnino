@@ -1,7 +1,7 @@
 function fixture() {
 
     do {
-        op = prompt("Ingrese las cantidad de selecciones/Equipos q va a cargar")
+        op = prompt("Fixture interactivo de 4 Equipos/Selecciones: Ingrese del 1 al 4")
 
         switch (op) {
             case '1':
